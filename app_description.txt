@@ -16,6 +16,7 @@ Database
 Exercises:
     - name
     - Body part it works out
+    - links to demonstrations of the exercise
     - recommended amount of time to perform workout
 Workouts:
     - Dictionary object of Exercises and their times
