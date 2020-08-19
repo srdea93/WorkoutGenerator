@@ -1,16 +1,16 @@
 Workout generator app
 
 Workout generator function
-Inputs: workout time, body parts definitely include, body parts definitely exclude
-Output: Generated workout - saved to a json file and database for future access
+    - Inputs: workout time, body parts definitely include, body parts definitely exclude
+    - Output: Generated workout - saved to a json file and database for future access
 
 Add exercise
-Input: name, body part it works out, recommended amount of time to perform workout
-Output: store exercise in database
+    - Input: name, body part it works out, recommended amount of time to perform workout
+    - Output: store exercise in database
 
-Search function
-Search exercises using regex function
-Search body parts using regex function
+Search function:
+    - Search exercises using regex function
+    - Search body parts using regex function
 
 Database
 Exercises:
@@ -21,6 +21,10 @@ Workouts:
     - Dictionary object of Exercises and their times
     - Total time of workout
     - Date of workout
+Users:
+    - Workouts are linked to specific users
+    - Name
+    - Number of total workouts completed
 
 Pages:
     Home Page:
