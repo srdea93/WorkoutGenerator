@@ -7,7 +7,7 @@ The application has 3 main functions:
 performed, the number of minutes they have worked out, and the proportion of time spent working out specific muscles.
 
 2) The add_exercise page will allow users to add new exercises to the application's database using a form-based 
-approach. This form will allow users to input an exercise's name, select which muscle group it targets,
+approach. This form will allow users to input an exercise's name, select which workout group it belongs to,
 include a link demonstrating how to perform an exercise, and specify a suggested amount of time to do the specific 
 exercise.
 
